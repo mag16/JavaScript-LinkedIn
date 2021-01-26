@@ -35,6 +35,7 @@ function spellCheck() {
     let originTextMatch = originText.substring(0,textEntered.length);
 
     if (textEntered == originText) {
+        console.info("interval stopped: ", interval);
         clearInterval(interval);
         testWrapper.style.borderColor = "#429890";
     } else {

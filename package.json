@@ -1,0 +1,23 @@
+{
+  "name": "ex_files_javascript_esst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mag16/JavaScript-LinkedIn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mag16/JavaScript-LinkedIn/issues"
+  },
+  "homepage": "https://github.com/mag16/JavaScript-LinkedIn#readme",
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-plugin-react": "^7.22.0"
+  }
+}
